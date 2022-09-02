@@ -1,1 +1,1 @@
-a script that changes the working directory to the previous one
+deletes all files that end with the character ~.
