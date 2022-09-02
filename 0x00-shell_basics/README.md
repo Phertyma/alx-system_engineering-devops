@@ -1,1 +1,1 @@
-deletes all files that end with the character ~.
+a scriptbthat create the directories welcome to school
