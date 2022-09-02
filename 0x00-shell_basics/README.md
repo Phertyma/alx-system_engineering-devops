@@ -1,1 +1,1 @@
-a scriptbthat create the directories welcome to school
+a script that create files seperated by commas
